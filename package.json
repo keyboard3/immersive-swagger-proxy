@@ -1,0 +1,7 @@
+{
+    "name": "immersive-swagger-proxy",
+    "scripts": {
+
+    },
+    "workspaces":["swagger-browser-plugin","example"]
+}
