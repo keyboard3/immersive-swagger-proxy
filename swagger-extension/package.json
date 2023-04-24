@@ -1,0 +1,15 @@
+{
+  "name": "swagger-extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "build": "esbuild popup.ts --bundle --outfile=popup.js --minify --sourcemap",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild": "0.17.18"
+  }
+}
