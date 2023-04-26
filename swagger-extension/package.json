@@ -4,7 +4,8 @@
   "description": "",
   "main": "background.js",
   "scripts": {
-    "build": "esbuild popup.ts --bundle --outfile=popup.js --minify --sourcemap",
+    "migrate": "mkdir -p dist && cp -r images popup.html manifest.json *.css  dist/",
+    "build": "esbuild src/entry/*.ts --bundle --outdir=dist --minify --sourcemap=both --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
