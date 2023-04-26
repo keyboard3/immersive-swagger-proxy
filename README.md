@@ -1,6 +1,6 @@
 # immersive-swagger-proxy
 
-- [swaggerUI(主流)](https://petstore.swagger.io/?_ga=2.213879312.540614507.1682488577-1601408278.1666169877&_gac=1.150073156.1682488710.CjwKCAjw9J2iBhBPEiwAErwpeY9x_tlf5HV9ULsf_b54DZ_FFlc213uELAwW2dv7gLqYbA7OomXvHhoCrUkQAvD_BwE)
+- [swaggerUI](https://petstore.swagger.io/?_ga=2.213879312.540614507.1682488577-1601408278.1666169877&_gac=1.150073156.1682488710.CjwKCAjw9J2iBhBPEiwAErwpeY9x_tlf5HV9ULsf_b54DZ_FFlc213uELAwW2dv7gLqYbA7OomXvHhoCrUkQAvD_BwE)
     - 方案
         - Method: button-span[class="opblock-summary-method"]
         - Path: button-span[class="opblock-summary-path"]
@@ -15,3 +15,4 @@
         - Method: span[class="method meth-get"]
         - Path: code[class="language-http"]
         - Example Value: 无
+- [showdoc](https://www.showdoc.com.cn/demo/9)
